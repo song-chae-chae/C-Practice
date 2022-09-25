@@ -1,10 +1,10 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int width = 10;
 	int height = 20;
 
-	printf("»ç°¢ÇüÀÇ ³ĞÀÌ´Â %dÀÌ´Ù.\n", width * height);
+	printf("ì‚¬ê°í˜•ì˜ ë„“ì´ëŠ” %dì´ë‹¤.\n", width * height);
 
 	return 0;
 }

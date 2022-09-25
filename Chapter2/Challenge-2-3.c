@@ -1,9 +1,9 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	char character;
 
-	printf("¹®ÀÚ¸¦ ÀÔ·ÂÇÏ½Ã¿À. :");
+	printf("ë¬¸ìë¥¼ ì…ë ¥í•˜ì‹œì˜¤. :");
 	scanf_s("%c", &character);
 	printf("%d", character);
 

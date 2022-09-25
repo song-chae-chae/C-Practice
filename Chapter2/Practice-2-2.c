@@ -1,10 +1,10 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int value = 100;
 	char ch = 'C';
 
-	printf("Ãâ·Â °á°ú : Á¤¼ö %d, ¹®ÀÚ %c \n", value, ch);
+	printf("ì¶œë ¥ ê²°ê³¼ : ì •ìˆ˜ %d, ë¬¸ì %c \n", value, ch);
 
 	return 0;
 }

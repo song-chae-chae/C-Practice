@@ -1,12 +1,12 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int age = 18;
 	char grade = 'A';
 
-	printf("ÀÌ¸§ : ÀÌÃ¢Çå\n");
-	printf("³ªÀÌ : %d¼¼\n", age);
-	printf("¼ºÀû : %c\n", grade);
+	printf("ì´ë¦„ : ì´ì°½í—Œ\n");
+	printf("ë‚˜ì´ : %dì„¸\n", age);
+	printf("ì„±ì  : %c\n", grade);
 
 	return 0;
 }
