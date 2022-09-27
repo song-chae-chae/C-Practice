@@ -1,23 +1,23 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int a = 5;
 	int b = 3;
 
 	a += b;
-	printf("a += bÀÇ °á°ú´Â %d ÀÔ´Ï´Ù.\n", a); // 8
+	printf("a += bì˜ ê²°ê³¼ëŠ” %d ì…ë‹ˆë‹¤.\n", a); // 8
 
 	a -= b;
-	printf("a -= bÀÇ °á°ú´Â %d ÀÔ´Ï´Ù.\n", a); // 5
+	printf("a -= bì˜ ê²°ê³¼ëŠ” %d ì…ë‹ˆë‹¤.\n", a); // 5
 
 	a *= b;
-	printf("a *= bÀÇ °á°ú´Â %d ÀÔ´Ï´Ù.\n", a); // 15
+	printf("a *= bì˜ ê²°ê³¼ëŠ” %d ì…ë‹ˆë‹¤.\n", a); // 15
 
 	a /= b;
-	printf("a /= bÀÇ °á°ú´Â %d ÀÔ´Ï´Ù.\n", a); // 5
+	printf("a /= bì˜ ê²°ê³¼ëŠ” %d ì…ë‹ˆë‹¤.\n", a); // 5
 
 	a %= b;
-	printf("a %= bÀÇ °á°ú´Â %d ÀÔ´Ï´Ù.\n", a); // 2
+	printf("a %= bì˜ ê²°ê³¼ëŠ” %d ì…ë‹ˆë‹¤.\n", a); // 2
 
 	return 0;
 }

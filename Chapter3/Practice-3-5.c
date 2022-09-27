@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int a = 10;
@@ -6,9 +6,9 @@ int main(void) {
 	int c = 12;
 	int d = 10;
 
-	printf("!(a == 10) ÀÇ °á°ú´Â : %d\n", !(a == 10)); // false
-	printf("(a < b) && (a < c) ÀÇ °á°ú´Â : %d\n", (a < b) && (a < c)); // true
-	printf("(a >= c) || (a == d) ÀÇ °á°ú´Â : %d\n", (a >= c) || (a == d)); // true
+	printf("!(a == 10) ì˜ ê²°ê³¼ëŠ” : %d\n", !(a == 10)); // false
+	printf("(a < b) && (a < c) ì˜ ê²°ê³¼ëŠ” : %d\n", (a < b) && (a < c)); // true
+	printf("(a >= c) || (a == d) ì˜ ê²°ê³¼ëŠ” : %d\n", (a >= c) || (a == d)); // true
 
 	return 0;
 }
