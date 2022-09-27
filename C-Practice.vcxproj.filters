@@ -93,5 +93,26 @@
     <ClCompile Include="Chapter3\Practice-3-10.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter3\Challenge-3-1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Challenge-3-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Challenge-3-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Practice-3-11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Challenge-3-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Practice-3-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter3\Practice-3-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
