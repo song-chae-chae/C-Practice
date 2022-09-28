@@ -238,7 +238,6 @@
     <ClCompile Include="Chapter4\Challenge-4-2.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Chapter4\Challenge-4-4.c" />
     <ClCompile Include="Chapter4\Practice-4-1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
