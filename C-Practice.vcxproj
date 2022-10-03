@@ -253,7 +253,7 @@
     <ClCompile Include="Chapter6\Challenge-6-3.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Chapter7\Challenge-7-3.c" />
+    <ClCompile Include="Chapter9\Practice-9-17.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

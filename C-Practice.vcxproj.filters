@@ -135,7 +135,7 @@
     <ClCompile Include="Chapter6\Challenge-6-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter7\Challenge-7-3.c">
+    <ClCompile Include="Chapter9\Practice-9-17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
