@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 
 void main() {
@@ -7,9 +7,9 @@ void main() {
 	int radix = 10;
 
 	itoa(value, string, radix);
-	printf("º¯È¯µÈ ¹®ÀÚ¿­ %s\n", string);
+	printf("ë³€í™˜ëœ ë¬¸ìì—´ %s\n", string);
 
 	value = -50;
 	itoa(value, string, radix);
-	printf("º¯È¯µÈ ¹®ÀÚ¿­ %s\n", string);
+	printf("ë³€í™˜ëœ ë¬¸ìì—´ %s\n", string);
 }

@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 
 void main() {
@@ -7,11 +7,11 @@ void main() {
 	int dec, sign;
 
 	pStr = fcvt(value, 4, &dec, &sign);
-	printf("º¯È¯µÈ ¹®ÀÚ¿­ %s\n", pStr);
-	printf("¼Ò¼öÁ¡ À§Ä¡´Â %d, ºÎÈ£´Â %d\n", dec, sign);
+	printf("ë³€í™˜ëœ ë¬¸ìì—´ %s\n", pStr);
+	printf("ì†Œìˆ˜ì  ìœ„ì¹˜ëŠ” %d, ë¶€í˜¸ëŠ” %d\n", dec, sign);
 
 	value = -314.159265;
 	pStr = fcvt(value, 6, &dec, &sign);
-	printf("º¯È¯µÈ ¹®ÀÚ¿­ %s\n", pStr);
-	printf("¼Ò¼öÁ¡ À§Ä¡´Â %d, ºÎÈ£´Â %d\n", dec, sign);
+	printf("ë³€í™˜ëœ ë¬¸ìì—´ %s\n", pStr);
+	printf("ì†Œìˆ˜ì  ìœ„ì¹˜ëŠ” %d, ë¶€í˜¸ëŠ” %d\n", dec, sign);
 }
