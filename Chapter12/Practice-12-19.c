@@ -6,6 +6,7 @@ void main() {
 	char* pStr;
 	int dec, sign;
 
+	// fcvt : 실수를 문자열로 변경
 	pStr = fcvt(value, 4, &dec, &sign);
 	printf("변환된 문자열 %s\n", pStr);
 	printf("소수점 위치는 %d, 부호는 %d\n", dec, sign);

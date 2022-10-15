@@ -9,6 +9,7 @@ void main() {
 
 	fputs("정수를 입력하세요 : ", stdout);
 	gets(str2);
+	// atoi : 문자열 정수로 변환 시 사용
 	total = atoi(str1) + atoi(str2);
 
 	printf("두 수의 합 : %d\n", total);

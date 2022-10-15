@@ -8,7 +8,7 @@ void main() {
 	fputs("검색할 문자열을 입력하세요 : ", stdout);
 	gets(strSearch);
 
-	if (strstr(str, strSearch))
+	if (strstr(str, strSearch)) // 검색 대상이 되는 문장, 검색하고자 하는 문자열 인수로 받음 -> 찾은 위치 포인터 리턴
 		puts("문자열을 찾았습니다.");
 	else {
 		puts("문자열을 찾을 수 없습니다.");
