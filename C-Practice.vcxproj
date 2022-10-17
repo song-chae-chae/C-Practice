@@ -139,6 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Chapter12\Practice-12-17.c" />
+    <ClCompile Include="Chapter12\Practice-12-18.c" />
+    <ClCompile Include="Chapter12\Practice-12-19.c" />
+    <ClCompile Include="Chapter12\Practice-12-20.c" />
+    <ClCompile Include="Chapter12\Practice-12-21.c" />
+    <ClCompile Include="Chapter12\Practice-12-22.c" />
     <ClCompile Include="Chapter1\Challenge-1-1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
@@ -253,7 +259,6 @@
     <ClCompile Include="Chapter6\Challenge-6-3.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Chapter9\Practice-9-17.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

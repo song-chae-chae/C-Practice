@@ -135,7 +135,22 @@
     <ClCompile Include="Chapter6\Challenge-6-3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Chapter9\Practice-9-17.c">
+    <ClCompile Include="Chapter12\Practice-12-17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter12\Practice-12-18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter12\Practice-12-19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter12\Practice-12-20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter12\Practice-12-21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter12\Practice-12-22.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
