@@ -1,0 +1,1 @@
+﻿int common = 0;
